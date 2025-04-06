@@ -1,0 +1,2 @@
+18:45:24 => [error] first log message!
+18:45:24 => [error] /mnt/e/cpp_project/mprpc/example/callee/friendservice.cc:main:45
